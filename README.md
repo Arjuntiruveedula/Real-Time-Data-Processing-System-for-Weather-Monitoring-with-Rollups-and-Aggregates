@@ -50,7 +50,7 @@ Installation
 
 Clone the Repository
 ```bash
-git clone "https://github.com/Arjuntiruveedula/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates.git"
+git clone https://github.com/Arjuntiruveedula/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates.git
 cd Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates
 ```
 
